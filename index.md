@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[test.md](https://gerw88.github.io/ge-la-lu-do/test)
+[test.md](https://gerw88.github.io/ge-la-lu-do/test.md)
 
 You can use the [editor on GitHub](https://github.com/Gerw88/gelaludo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
